@@ -17,7 +17,7 @@ DCPU-16 Hardware Info:
 Description:
     The Talon Navigation Systems LPS is an entirely local positioning system, using 
     a beacon and receiver model. This device uses a doppler receiver to triangulate
-    position and velocity relative a specified beacon.
+    position and velocity relative to a specified beacon.
 
     The Talon has a range of 16km, and is accurate to 1 mm.
     Guaranteed to lock on in under 5 seconds or your money back!
